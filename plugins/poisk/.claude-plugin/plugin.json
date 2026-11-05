@@ -1,0 +1,11 @@
+{
+  "name": "poisk",
+  "version": "0.1.0",
+  "description": "Поиск кандидатов — из вакансии строит профиль, стоп-факторы, булевы запросы и готовые ссылки на hh.ru, SuperJob, Habr Career и Зарплата.ру.",
+  "author": {
+    "name": "labopsai"
+  },
+  "homepage": "https://labopsai.pro",
+  "license": "MIT",
+  "keywords": ["hr", "recruitment", "search", "resume", "hh", "boolean"]
+}

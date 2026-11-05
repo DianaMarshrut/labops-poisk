@@ -1,0 +1,27 @@
+{
+  "name": "labopsai-poisk",
+  "owner": {
+    "name": "labopsai"
+  },
+  "metadata": {
+    "description": "Капсула labopsai «Поиск кандидатов» — профиль, булевы запросы и готовые ссылки для поиска резюме на hh.ru, SuperJob, Habr Career, Зарплата.ру",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "poisk",
+      "source": "./plugins/poisk",
+      "description": "Поиск кандидатов — профиль кандидата, булевы запросы и готовые фильтрованные ссылки на основные площадки",
+      "version": "0.1.0",
+      "category": "productivity",
+      "keywords": [
+        "hr",
+        "recruitment",
+        "search",
+        "resume",
+        "hh",
+        "boolean"
+      ]
+    }
+  ]
+}
